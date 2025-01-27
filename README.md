@@ -50,9 +50,6 @@ A visually appealing analog and digital clock created using HTML, CSS, and JavaS
    - Box shadows and gradients create a modern, embossed design.
    - Glow effects enhance the visual appeal.
 
-## Preview
-
-![Clock Preview](https://via.placeholder.com/600x400?text=Clock+Preview)
 
 ## Customization
 
